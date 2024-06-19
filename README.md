@@ -2,7 +2,7 @@ I am Mirco and I am currently studying Computer Science at the university of Bas
 
 Here are some projects I already worked on for the lectures:
 
-For the "Programmierprojekt" in the second semester we created a videogame called [Cerberus](). This was done in a group of four.
+For the "Programmierprojekt" in the second semester we created a videogame called [Cerberus](https://github.com/schn-lars/Cerberus2.0). This was done in a group of four.
 
 In the third semester we created an add-on for the citation and reference management tool JabRef for the "Software Engineering" lecture. Here we created a [rewarding system](https://github.com/troberts97/jabref) with achievements for JabRef. The project had to be done in a group of three.
 
