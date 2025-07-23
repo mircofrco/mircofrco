@@ -1,4 +1,4 @@
-I am Mirco and I am currently studying Computer Science at the university of Basel.
+I am Mirco and I recently completed my Bachelor's degree in Computer Science at the University of Basel.
 
 Here are some projects I already worked on for the lectures:
 
@@ -12,6 +12,6 @@ For the "Operating Systems" lecture we created a new shell called [DAVIS](https:
 
 In the "Distributed Programming and Internet Security" lecture we implemented the game Battle Ship over the Bluetooth low-energy app "Tremola". For that we mainly used Kotlin and JavaScript.
 
-Currently I am working on my Bachelor's thesis in the field of Artificial Intelligence. I implemented a new tie-breaking strategy for benchmarks which use 0-cost actions in the general planner programm [Fast Downward](https://github.com/aibasel/downward).
+For my Bachelor's thesis in the field of Artificial Intelligence I implemented a new tie-breaking strategy for benchmarks which use 0-cost actions in the general planner solver [Fast Downward](https://github.com/aibasel/downward).
 
 At the university I learned coding in Java, Python, C, C++, Assembler and bash. For the mathematical part of the lectures I used LaTeX and MatLab.
